@@ -6,15 +6,14 @@
 @import "./base/base";
 @import "./base/typography";
 
-@import "./components/buttons";
 
 @import "./layout/header";
 @import "./layout/footer";
 @import "./layout/nav";
 @import "./layout/container";
-@import "./layout/form";
 
 
-@import "./pages/work";
-@import "./pages/about";
-@import "./pages/project";
+@import "./partials/home";
+@import "./partials/legalnotice";
+@import "./partials/menu";
+@import "./partials/about";
